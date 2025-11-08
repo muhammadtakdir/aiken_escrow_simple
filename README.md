@@ -99,5 +99,3 @@ Perubahan pada repo ini:
 
 - Bersihkan peringatan compiler (unused imports / variables)
 - Perbaikan pembuatan `Value` menggunakan `from_lovelace` dan penggunaan `dict.empty` / `interval.everything` untuk test transactions
-
-Jika ingin, saya dapat menambahkan contoh serialisasi CBOR untuk datum/redeemer atau skrip helper untuk membangun transaksi off-chain.
